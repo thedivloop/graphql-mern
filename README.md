@@ -37,10 +37,10 @@ git remote add origin URL
 ```
 Initial push 
 ```
-git push --set-upstream origin <branch>
+git push --set-upstream origin main
 ```
 
-Force your local repo to github if any problem (this will overwrite your github repo content)
+Force your local repo to github if any problem (this will overwrite your github repo content!!)
 ```bash
 git push origin main --force
 ```
