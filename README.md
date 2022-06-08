@@ -14,3 +14,8 @@ https://graphql.org/graphql-js/running-an-express-graphql-server/
 
 ## Links
 [Github repository](git@github.com:thedivloop/graphql-mern.git)
+
+## Credits
+As usual a Huge Thank you to Brad for his top notch content!
+
+[His Youtube channel](https://www.youtube.com/c/TraversyMedia) 
